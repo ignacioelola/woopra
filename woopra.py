@@ -4,6 +4,7 @@ import datetime
 import os
 import sys
 
+#.
 
 def visit(email,date):
     endpoint = "http://www.woopra.com/rest/profile/visits"
